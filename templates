@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My 3D Blog Website</title>
+</head>
+<body>
+    <h1>Welcome to My Blog!</h1>
+    <p>This is a 3D blog website made with Flask.</p>
+</body>
+</html>
